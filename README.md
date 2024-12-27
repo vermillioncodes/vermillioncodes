@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @vermillioncodes
-- 👀 I’m interested in ... making scripts.. duh
-- 🌱 I’m currently learning ... scripting
+- 👀 I’m interested in ... coding lua/luau
+- 🌱 I’m currently learning ... luau
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... my discord. @vermillili
 - 😄 Pronouns: ... what is a pronoun
-- ⚡ Fun fact: ... idk
+- ⚡ Fun fact: ... im sigma
 
 <!---
 vermillioncodes/vermillioncodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
